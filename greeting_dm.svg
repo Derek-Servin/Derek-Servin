@@ -80,7 +80,7 @@
     </g>
 
     <g id="textbox2">
-        <rect x="145" y="65" width="480" height="22" opacity="0" fill="#008891">
+        <rect x="145" y="65" width="440" height="22" opacity="0" fill="#008891">
         <animate
         attributeName="rx"
         values="0;15;0"
@@ -110,7 +110,7 @@
     </g>
 
     <g id="textbox4">
-        <rect x="145" y="125" width="504" height="22" opacity="0" fill="#008891">
+        <rect x="145" y="125" width="604" height="22" opacity="0" fill="#008891">
         <animate
         attributeName="rx"
         values="0;15;0"
@@ -125,7 +125,7 @@
       </g>
   
       <g id="textbox5">
-          <rect x="145" y="154" width="490" height="22" opacity="0" fill="#008891">
+          <rect x="145" y="154" width="370" height="22" opacity="0" fill="#008891">
           <animate
           attributeName="rx"
           values="0;15;0"
@@ -635,32 +635,33 @@
 
   <!-- Text Lines -->
   <g id="line1" transform="translate(150, 50)" opacity="0">
-    <text x="0" y="0" font-family="Oxygen" font-size="20" fill="#556E71">Hi, I'm <tspan font-weight="bold" fill="#009EAD">Derek!</tspan></text>
+    <text x="0" y="0" font-family="Verdana" font-size="20" fill="#556E71">Hi, I'm <tspan font-weight="bold" fill="#009EAD">Derek!</tspan></text>
   </g>
   
   <g id="line2" transform="translate(150, 80)" opacity="0">
-    <text x="0" y="0" font-family="Oxygen" font-size="16" fill="#556E71"> From the <tspan font-weight="bold" fill="#009EAD">313</tspan>, a city known for its automotive legacy</text>
+    <text x="0" y="0" font-family="Verdana" font-size="16" fill="#556E71"> From the <tspan font-weight="bold" fill="#009EAD">313</tspan>, a city known for its automotive legacy</text>
   </g>
   
   <g id="line3" transform="translate(150, 110)" opacity="0">
-    <text x="0" y="0" font-family="Oxygen" font-size="16" fill="#556E71"> and now <tspan font-weight="bold" fill="#009EAD">driving the future</tspan>of robotics</text>
+    <text x="0" y="0" font-family="Verdana" font-size="16" fill="#556E71"> and now <tspan font-weight="bold" fill="#009EAD">driving the future </tspan>of robotics</text>
   </g>
   
   <g id="line4" transform="translate(150, 140)" opacity="0">
-    <text x="0" y="0" font-family="Oxygen" font-size="16" fill="#556E71">RnD lead at Motmot <tspan font-weight="bold" fill="#009EAD">creating AURs for drinking water infrastructure</tspan></text>
+    <text x="0" y="0" font-family="Verdana" font-size="16" fill="#556E71">RnD lead at Motmot <tspan font-weight="bold" fill="#009EAD">creating AURs for drinking water infrastructure</tspan></text>
   </g>
   
   <g id="line5" transform="translate(150, 170)" opacity="0">
-    <text x="0" y="0" font-family="Oxygen" font-size="16" fill="#556E71">See my website at <tspan font-weight="bold" fill="#009EAD">derek-servin.github.io</tspan></text>
+    <text x="0" y="0" font-family="Verdana" font-size="16" fill="#556E71">See my website at <tspan font-weight="bold" fill="#009EAD">derek-servin.github.io</tspan></text>
   </g>
   
   <g id="line6" transform="translate(150, 200)" opacity="0">
-    <text x="0" y="0" font-family="Oxygen" font-size="16" fill="#556E71">Thanks for stopping by</text>
+    <text x="0" y="0" font-family="Verdana" font-size="16" fill="#556E71">Thanks for stopping by</text>
   </g>
   
   <g id="line7" transform="translate(150, 230)" opacity="0">
-    <text x="0" y="0" font-family="Oxygen" font-size="16" fill="#556E71">Have a great day!</text>
+    <text x="0" y="0" font-family="Verdana" font-size="16" fill="#556E71">Have a great day!</text>
   </g>
+  
   
   <!-- Animation for Opacity -->
 
